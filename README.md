@@ -1,2 +1,2 @@
 # henry
-1er ejercicico
+1er ejercicio
